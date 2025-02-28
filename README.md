@@ -20,7 +20,7 @@ Technology should be inclusive, not exclusive. I’m committed to creating solut
 I’m always eager to learn new skills and share what I’ve learned with others. Whether it’s coding, automation, or problem-solving, I believe collaboration and mentorship are key to driving progress.
 
 🛠️ Current Projects
-One for All : A comprehensive ad-blocking solution combining network-wide protection, system-level blocking, and browser extensions. Check it out here .
+One for All : A comprehensive ad-blocking solution combining network-wide protection, system-level blocking, and browser extensions. Check it out here https://github.com/iyeque/one-for-all.git.
 Why? Because ads are intrusive, privacy-invading, and often unnecessary. This project ensures everyone can enjoy a cleaner, faster, and safer browsing experience—for free!
 Exploring Automation : I’m working on automating repetitive tasks to save time and energy for myself and others. Stay tuned for updates!
 
