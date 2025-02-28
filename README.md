@@ -7,6 +7,9 @@
 - 😄 Pronouns: he/ him/ we).
 - ⚡ Fun fact: I believe the best things in life are free—like open-source software, shared knowledge, and community-driven innovation!
 
+
+
+
 🌟 About Me
 I’m @iyeque, a passionate advocate for the power of technology to improve lives and empower communities. My philosophy is simple: the best things in life are free, and I strive to use tech to make valuable resources accessible to all. Whether it’s building open-source tools, automating processes, or sharing knowledge, I believe in creating solutions that benefit the greater good.
 
