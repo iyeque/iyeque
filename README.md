@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @iyeque
+              🛠️🔑
+- 👋 Hi, I’m maximus_iyeque
 - 👀 I’m interested in leveraging technology to create free and accessible resources for everyone.
 - 🌱 I’m currently learning how to use open-source tools and platforms to democratize access to knowledge and innovation.
 - 💞️ I’m looking to collaborate on projects that align with my mission of making tech work for the greater good.
@@ -7,7 +8,7 @@
 - ⚡ Fun fact: I believe the best things in life are free—like open-source software, shared knowledge, and community-driven innovation!
 
 🌟 About Me
-I’m @iyeque , a passionate advocate for the power of technology to improve lives and empower communities. My philosophy is simple: the best things in life are free , and I strive to use tech to make valuable resources accessible to all. Whether it’s building open-source tools, automating processes, or sharing knowledge, I believe in creating solutions that benefit the greater good.
+I’m @iyeque, a passionate advocate for the power of technology to improve lives and empower communities. My philosophy is simple: the best things in life are free , and I strive to use tech to make valuable resources accessible to all. Whether it’s building open-source tools, automating processes, or sharing knowledge, I believe in creating solutions that benefit the greater good.
 
 🔥 What Drives Me?
 1. Open Source & Free Resources
