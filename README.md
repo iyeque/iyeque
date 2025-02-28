@@ -1,4 +1,4 @@
-              🛠️🔑
+🛠️🔑
 - 👋 Hi, I’m maximus_iyeque
 - 👀 I’m interested in leveraging technology to create free and accessible resources for everyone.
 - 🌱 I’m currently learning how to use open-source tools and platforms to democratize access to knowledge and innovation.
