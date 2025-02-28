@@ -3,7 +3,7 @@
 - 👀 I’m interested in leveraging technology to create free and accessible resources for everyone.
 - 🌱 I’m currently learning how to use open-source tools and platforms to democratize access to knowledge and innovation.
 - 💞️ I’m looking to collaborate on projects that align with my mission of making tech work for the greater good.
-- 📫 How to reach me: Feel free to message me here on GitHub or connect with me via email mmmuraya@outlook.com.
+- 📫 How to reach me: Feel free to message me here on GitHub or connect with me via email at mmmaximus18@gmail.com.
 - 😄 Pronouns: he/ him/ we).
 - ⚡ Fun fact: I believe the best things in life are free—like open-source software, shared knowledge, and community-driven innovation!
 
