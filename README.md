@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I believe the best things in life are free—like open-source software, shared knowledge, and community-driven innovation!
 
 🌟 About Me
-I’m @iyeque, a passionate advocate for the power of technology to improve lives and empower communities. My philosophy is simple: the best things in life are free , and I strive to use tech to make valuable resources accessible to all. Whether it’s building open-source tools, automating processes, or sharing knowledge, I believe in creating solutions that benefit the greater good.
+I’m @iyeque, a passionate advocate for the power of technology to improve lives and empower communities. My philosophy is simple: the best things in life are free, and I strive to use tech to make valuable resources accessible to all. Whether it’s building open-source tools, automating processes, or sharing knowledge, I believe in creating solutions that benefit the greater good.
 
 🔥 What Drives Me?
 1. Open Source & Free Resources
@@ -21,9 +21,9 @@ Technology should be inclusive, not exclusive. I’m committed to creating solut
 I’m always eager to learn new skills and share what I’ve learned with others. Whether it’s coding, automation, or problem-solving, I believe collaboration and mentorship are key to driving progress.
 
 🛠️ Current Projects
-One for All : A comprehensive ad-blocking solution combining network-wide protection, system-level blocking, and browser extensions. Check it out here https://github.com/iyeque/one-for-all.git.
+One for All: A comprehensive ad-blocking solution combining network-wide protection, system-level blocking, and browser extensions. Check it out here https://github.com/iyeque/one-for-all.git.
 Why? Because ads are intrusive, privacy-invading, and often unnecessary. This project ensures everyone can enjoy a cleaner, faster, and safer browsing experience—for free!
-Exploring Automation : I’m working on automating repetitive tasks to save time and energy for myself and others. Stay tuned for updates!
+Exploring Automation: I’m working on automating repetitive tasks to save time and energy for myself and others. Stay tuned for updates!
 
 🤝 Looking to Collaborate
 I’m excited to collaborate on projects that align with my values and goals. If you’re working on something related to:
